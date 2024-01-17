@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4D12AQHvhlOJs7itDA/article-cover_image-shrink_720_1280/0/1662963709489?e=2147483647&v=beta&t=kf69nZIimzQLPeM-X2e82dvM6SnU9KjeS7_mlQo6fRE)](https://rishavchanda.io)
 <h1 align="center">Hi👋, I'm Yonathan</h1>
 <h3 align="center">👋 Greetings, fellow code voyagers! I'm Yonathan ,aka witwiz, a passionate web hacker and bug bounty enthusiast on a mission to make the digital realm more secure, one exploit at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
