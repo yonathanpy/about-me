@@ -87,15 +87,25 @@ My core competencies extend beyond conventional penetration testing into **zero-
 🔗 **GitHub:** [yonathanpy](https://github.com/yonathanpy)  
 
 ---
-🛡 Offensive Security & Red Teaming
-<p align="left"> <img src="https://img.shields.io/badge/Kali_Linux-Blue?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Parrot_Security-Green?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-DarkBlue?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Cobalt_Strike-Red?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Empire-Purple?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Sliver-Black?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/NimPlant-Gray?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Havoc-Yellow?style=for-the-badge&logo=linux&logoColor=white" /> </p>
-🔬 Exploit Development & Binary Analysis
-<p align="left"> <img src="https://img.shields.io/badge/Ghidra-Orange?style=for-the-badge&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/IDA_Pro-Grey?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Radare2-Purple?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Pwntools-Blue?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/x86_Assembly-Red?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/ROPgadget-Green?style=for-the-badge&logo=linux&logoColor=white" /> </p>
-🏴‍☠️ Network Intrusion & Post-Exploitation
-<p align="left"> <img src="https://img.shields.io/badge/Impacket-Black?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Responder-Red?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/BloodHound-Green?style=for-the-badge&logo=neo4j&logoColor=white" /> <img src="https://img.shields.io/badge/SharpHound-Blue?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Mimikatz-Purple?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/CrackMapExec-Gray?style=for-the-badge&logo=linux&logoColor=white" /> </p>
-🛠 Reverse Engineering & Malware Analysis
-<p align="left"> <img src="https://img.shields.io/badge/x64dbg-DarkBlue?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/OllyDbg-Black?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Hopper-Orange?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Cutter-Red?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/DIE-(Detect_It_Easy)-Green?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/PEStudio-Yellow?style=for-the-badge&logo=windows&logoColor=white" /> </p>
-🌐 Web Exploitation & Bug Bounty
-<p align="left"> <img src="https://img.shields.io/badge/Burp_Suite-Orange?style=for-the-badge&logo=burp-suite&logoColor=white" /> <img src="https://img.shields.io/badge/SQLmap-Red?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/XSS_Hunter-Green?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Nuclei-Blue?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Subfinder-Purple?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/DirSearch-Grey?style=for-the-badge&logo=linux&logoColor=white" /> </p>
-🛡 Cloud Security & Pentesting
-<p align="left"> <img src="https://img.shields.io/badge/AWS_Security-Black?style=for-the-badge&logo=amazon&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_Pentest-Blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/GCP_Security-Yellow?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes_Security-Cyan?style=for-the-badge&logo=kubernetes&logoColor=white" /> </p>
+## 🚀 Ultimate Cybersecurity Arsenal  
+_The Elite Red Teaming, Exploitation & Analysis Toolkit_  
+
+---
+### 🛡️ **Offensive Security & Red Teaming**  
+<p align="center">
+  <img src="https://img.shields.io/badge/KALI%20LINUX-000?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/PARROT%20SECURITY-0cba46?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/METASPLOIT-1a1aff?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/COBALT%20STRIKE-ff3c00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/EMPIRE-660099?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SLIVER-000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NIMPLANT-00ff99?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HAVOC-33cc33?style=for-the-badge">
+</p>
+
+---
+### 🛠️ **Exploit Development & Binary Analysis**  
+<p align="center">
+  <img src="https://img.shields.io/badge/GHIDRA-ff6600?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IDA%20PRO-666666?style=for-the-badge">
+  <img src="https://img.shields.io
