@@ -91,21 +91,31 @@ My core competencies extend beyond conventional penetration testing into **zero-
 _The Elite Red Teaming, Exploitation & Analysis Toolkit_  
 
 ---
-### 🛡️ **Offensive Security & Red Teaming**  
-<p align="center">
-  <img src="https://img.shields.io/badge/KALI%20LINUX-000?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/PARROT%20SECURITY-0cba46?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/METASPLOIT-1a1aff?style=for-the-badge&logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/COBALT%20STRIKE-ff3c00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/EMPIRE-660099?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SLIVER-000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/NIMPLANT-00ff99?style=for-the-badge">
-  <img src="https://img.shields.io/badge/HAVOC-33cc33?style=for-the-badge">
-</p>
+# 🛡️ The Elite Red Teaming, Exploitation & Analysis Toolkit  
 
 ---
-### 🛠️ **Exploit Development & Binary Analysis**  
-<p align="center">
-  <img src="https://img.shields.io/badge/GHIDRA-ff6600?style=for-the-badge">
-  <img src="https://img.shields.io/badge/IDA%20PRO-666666?style=for-the-badge">
-  <img src="https://img.shields.io
+## 🔥 Offensive Security & Red Teaming  
+🚀 **Kali Linux** | 🟢 **Parrot Security** | 🔷 **Metasploit** | 🔥 **Cobalt Strike** | 🟣 **Empire** | ⚫ **Sliver** | 💀 **Nimplant** | 🟩 **Havoc**  
+
+---
+## ⚙️ Exploit Development & Binary Analysis  
+🟠 **Ghidra** | ⚫ **IDA Pro** | 🟣 **Radare2** | 🔷 **Pwntools** | 🏴‍☠️ **ROPgadget** | 🟡 **x86 Assembly**  
+
+---
+## 🕵️‍♂️ Network Intrusion & Post-Exploitation  
+🟢 **Impacket** | 🟢 **Responder** | 🏴‍☠️ **BloodHound** | 🔷 **SharpHound** | 💀 **Mimikatz** | 🔥 **CrackMapExec**  
+
+---
+## 🛠️ Reverse Engineering & Malware Analysis  
+🟡 **x64dbg** | 🟢 **OllyDbg** | 🟡 **Hopper** | 🔷 **Cutter** | ⚫ **DIE (Detect It Easy)** | 🔴 **PEStudio**  
+
+---
+## 🌐 Web Exploitation & Bug Bounty  
+🟢 **Burp Suite** | 🟡 **SQLmap** | 🔷 **XSS Hunter** | 🔥 **Nuclei** | 🟢 **Subfinder** | ⚫ **DirSearch**  
+
+---
+## ☁️ Cloud Security & Pentesting  
+🟠 **AWS Security** | 🔷 **Azure Pentest** | 🟢 **GCP Security** | 🛡️ **Kubernetes Security**  
+
+---
+💀 **More Tools Coming Soon! Stay Tuned.** 💀  
