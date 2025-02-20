@@ -1,87 +1,84 @@
 # 🏴‍☠️ Yonathan (Witwizard) – Cybersecurity Architect | Red Team Specialist  
 
-![Cybersecurity Banner](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cyber_Security_Matrix.svg)  
-
-## **🛡️ Who Am I?**  
-I am **Yonathan**, AKA **WItwizard**, a highly adept **offensive security specialist, cyber warfare strategist, and red team operative** with expertise in **exploiting vulnerabilities, bypassing defenses, and architecting impenetrable security infrastructures**. My methodologies are deeply rooted in **low-level exploit development, adversary emulation, and cryptographic security**.  
-
-### **🚀 Core Competencies:**  
-🔹 **Advanced Reconnaissance & Cyber Intelligence Gathering** 🕵️‍♂️  
-🔹 **Memory Exploitation & Buffer Overflow Engineering** 💀  
-🔹 **Malware Analysis & Obfuscation Techniques** 🦠  
-🔹 **Threat Emulation & Zero-Day Research** 🌑  
-🔹 **Stealthy Network Penetration & Covert Payload Deployment** 🕶️  
-🔹 **Advanced Cryptographic Implementations & Evasion Strategies** 🔐  
+![Hacker Banner](https://media.giphy.com/media/J1XH0BYOgaP6JHDtxx/giphy.gif)  
 
 ---
 
-## **🛠️ Tactical Cybersecurity Toolkits**  
+## 🛡️ Who Am I?  
+I am **Yonathan**, aka **Witwizard**, a highly adept **offensive security specialist, cyber warfare strategist, and red team operative**.  
 
-### **1️⃣ XRecon - Tactical Reconnaissance & OSINT Automation**  
-🔍 **Purpose:** XRecon is an **autonomous reconnaissance framework** engineered for **deep intelligence gathering**, combining **subdomain enumeration, advanced port fingerprinting, archive analysis, and adversary mapping** into a single high-speed tool.  
+🔹 **Exploiting vulnerabilities, bypassing defenses, and crafting impenetrable security infrastructures**  
+🔹 **Reverse-engineering complex attack vectors and developing resilient countermeasures**  
+🔹 **Architecting advanced evasion techniques and next-generation cryptographic methodologies**  
 
-📥 **Deployment:**  
-```bash
-git clone https://github.com/yonathanpy/XRecon.git
-cd XRecon
-python3 xrecon.py <target>
+🔻 **Expertise:** **Low-level exploit development, adversary emulation, cryptographic security, and malware engineering.**  
 
-⚔️ Capabilities:
-✔️ Multi-threaded Subdomain & Host Discovery 🌐
-✔️ Port Scanning & Service Fingerprinting 🔍
-✔️ Dark Web & Web Archive Data Extraction 🏛️
-✔️ Automated Threat Intelligence Correlation 🕵️
+---
 
-🔗 GitHub Repo: XRecon
-2️⃣ XBufferShield - Advanced Memory Exploitation & Mitigation Framework
+## 🚀 Core Competencies  
+✔ **Advanced Reconnaissance & Cyber Intelligence Gathering** 🕵️‍♂️  
+✔ **Memory Exploitation & Buffer Overflow Engineering** 💀  
+✔ **Malware Analysis & Advanced Obfuscation Techniques** 🦠  
+✔ **Threat Emulation & Zero-Day Research** 🌑  
+✔ **Stealthy Network Penetration & Covert Payload Deployment** 🥷  
+✔ **Advanced Cryptographic Implementations & Evasion Strategies** 🔐  
 
-🔥 Purpose: XBufferShield is a hybrid offensive and defensive security suite engineered for buffer overflow analysis, stack corruption exploits, and real-time memory protection mechanisms.
+---
 
-📥 Deployment:
+## 🔧 Advanced Tools & Projects  
+These are **highly specialized offensive security tools** I have developed and use in engagements.  
 
-git clone https://github.com/yonathanpy/XBufferShield.git
-cd XBufferShield
-python3 xbuffershield.py --target <IP> --mode <attack/defend>
+### 1️⃣ **XRecon – Advanced Cyber Reconnaissance Tool**  
+📌 **GitHub:** [XRecon](https://github.com/yonathanpy/XRecon)  
+🔹 Automated **subdomain enumeration & DNS footprinting** 🌍  
+🔹 **Metadata extraction & deep web intelligence gathering** 🕶️  
+🔹 **Cloud asset discovery & external attack surface mapping** ☁️  
+🔹 **AI-powered threat analysis & risk assessment** 🤖  
 
-🔰 Capabilities:
-✔️ Stack & Heap Buffer Overflow Exploitation 💥
-✔️ Automated Fuzzing & Memory Corruption Detection 🛑
-✔️ Shellcode Injection, DEP & ASLR Bypass 🧬
-✔️ Advanced Mitigation & Memory Integrity Checks 🔐
+### 2️⃣ **XBufferShield – Advanced Memory Exploitation Defense**  
+📌 **GitHub:** [XBufferShield](https://github.com/yonathanpy/XBufferShield)  
+🔹 Detect & mitigate **stack-based & heap-based overflows** 🔥  
+🔹 Implement **ROP (Return Oriented Programming) protection** 🛡️  
+🔹 Secure **binary executables from exploit development** 🔍  
 
-🔗 GitHub Repo: XBufferShield
-3️⃣ XStealthSniper - Advanced Covert Operations & Evasion Framework
+### 3️⃣ **ShadowPhantom – Post-Exploitation & Persistence Framework**  
+📌 **GitHub:** [ShadowPhantom](https://github.com/yonathanpy/ShadowPhantom)  
+🔹 **Advanced privilege escalation & stealth persistence mechanisms** 🏴‍☠️  
+🔹 **Fileless execution & memory injection techniques** 🧠  
+🔹 **C2 communication over encrypted channels (DNS, ICMP, Covert TCP)** 🕵️‍♂️  
 
-🎭 Purpose: XStealthSniper is a stealth-driven penetration testing suite designed for advanced security bypassing, deep packet inspection evasion, and forensic-resistant payload execution.
+---
 
-📥 Deployment:
+## 📊 GitHub Stats  
+![Witwizard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yonathanpy&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonathanpy&layout=compact&theme=radical)  
 
-git clone https://github.com/yonathanpy/XStealthSniper.git
-cd XStealthSniper
-python3 xstealthsniper.py --target <IP/Domain> --attack <bypass/sniff/payload>
+---
 
-🕵️ Capabilities:
-✔️ Fully Undetectable (FUD) AV/IDS/IPS Bypass 🚨
-✔️ Network Traffic Sniffing & Credential Interception 📡
-✔️ Stealthy Memory Injection & Anti-Forensic Payload Execution 🩸
-✔️ Wireless Network Breach & Secure Communication Hijacking 🔓
+## 🛰️ Contribution Graph  
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=yonathanpy&theme=react-dark)  
 
-🔗 GitHub Repo: XStealthSniper
-🔮 Ongoing Advanced Projects
+---
 
-I am actively developing elite cybersecurity frameworks for advanced offensive operations, including:
+## 🔥 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yonathanpy&theme=radical)  
 
-    XPhantom: A hyper-evasive malware generation engine designed to bypass AI-powered security analytics.
-    ShadowNet: A decentralized penetration testing network for covert adversary simulations.
-    CryptX: A next-gen cryptographic security module focusing on quantum-resistant encryption techniques.
+---
 
-🌐 Connect & Collaborate
+## ⚒️ Tech Stack & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-00588C?style=for-the-badge&logo=kali-linux&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-316192?style=for-the-badge&logo=metasploit&logoColor=white)  
 
-📡 Follow My Work:
+---
 
-    GitHub: github.com/yonathanpy
-    Mail: witwizard@proton.me
+## 📡 Contact & Presence  
+💼 **GitHub:** [yonathanpy](https://github.com/yonathanpy)  
+📧 **ProtonMail:** [witwizard@proton.me](mailto:witwizard@proton.me)  
 
-⚠️ Legal Disclaimer
+---
 
-🚨 All tools are strictly for ethical hacking, cybersecurity research, and red teaming. Unauthorized or malicious use is prohibited. Use responsibly. 🚨
+## ⚠️ Ethical Disclaimer  
+All tools and research shared here are strictly **for educational and ethical penetration testing purposes**. Unauthorized use is **strictly prohibited** and may result in severe consequences. **Use responsibly.**  
