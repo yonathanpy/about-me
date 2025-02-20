@@ -1,30 +1,87 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQHvhlOJs7itDA/article-cover_image-shrink_720_1280/0/1662963709489?e=2147483647&v=beta&t=kf69nZIimzQLPeM-X2e82dvM6SnU9KjeS7_mlQo6fRE)](https://rishavchanda.io)
-<h1 align="center">Hi👋, I'm Yonathan</h1>
-<h3 align="center">👋 Greetings, fellow code voyagers! I'm Yonathan ,aka witwizard, a passionate web hacker and bug bounty enthusiast on a mission to make the digital realm more secure, one exploit at a time.</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+# 🏴‍☠️ Yonathan (Witwizard) – Cybersecurity Architect | Red Team Specialist  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yonathanpy&label=Profile%20views&color=0e75b6&style=flat" alt="yonathanpy" /> </p>
+![Cybersecurity Banner](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cyber_Security_Matrix.svg)  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## **🛡️ Who Am I?**  
+I am **Yonathan**, AKA **WItwizard**, a highly adept **offensive security specialist, cyber warfare strategist, and red team operative** with expertise in **exploiting vulnerabilities, bypassing defenses, and architecting impenetrable security infrastructures**. My methodologies are deeply rooted in **low-level exploit development, adversary emulation, and cryptographic security**.  
 
-- 🔭 I’m currently working on [front-end projects](https://github.com/behnamazimi/practical-front-end-projects)
+### **🚀 Core Competencies:**  
+🔹 **Advanced Reconnaissance & Cyber Intelligence Gathering** 🕵️‍♂️  
+🔹 **Memory Exploitation & Buffer Overflow Engineering** 💀  
+🔹 **Malware Analysis & Obfuscation Techniques** 🦠  
+🔹 **Threat Emulation & Zero-Day Research** 🌑  
+🔹 **Stealthy Network Penetration & Covert Payload Deployment** 🕶️  
+🔹 **Advanced Cryptographic Implementations & Evasion Strategies** 🔐  
 
-- 🌱 I’m currently learning **Cybersecurity Attack and Defense Fundamentals,Penetration Testing and Ethical Hacking,Offensive Security Certified Professional (OSCP),CompTIA Security+**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/yonathanpy](https://github.com/yonathanpy)
+## **🛠️ Tactical Cybersecurity Toolkits**  
 
-- 📫 How to reach me **witwiz01@proton.me**
+### **1️⃣ XRecon - Tactical Reconnaissance & OSINT Automation**  
+🔍 **Purpose:** XRecon is an **autonomous reconnaissance framework** engineered for **deep intelligence gathering**, combining **subdomain enumeration, advanced port fingerprinting, archive analysis, and adversary mapping** into a single high-speed tool.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+📥 **Deployment:**  
+```bash
+git clone https://github.com/yonathanpy/XRecon.git
+cd XRecon
+python3 xrecon.py <target>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+⚔️ Capabilities:
+✔️ Multi-threaded Subdomain & Host Discovery 🌐
+✔️ Port Scanning & Service Fingerprinting 🔍
+✔️ Dark Web & Web Archive Data Extraction 🏛️
+✔️ Automated Threat Intelligence Correlation 🕵️
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yonathanpy&show_icons=true&locale=en&layout=compact" alt="yonathanpy" /></p>
+🔗 GitHub Repo: XRecon
+2️⃣ XBufferShield - Advanced Memory Exploitation & Mitigation Framework
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yonathanpy&show_icons=true&locale=en" alt="yonathanpy" /></p>
+🔥 Purpose: XBufferShield is a hybrid offensive and defensive security suite engineered for buffer overflow analysis, stack corruption exploits, and real-time memory protection mechanisms.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yonathanpy&" alt="yonathanpy" /></p>
+📥 Deployment:
 
+git clone https://github.com/yonathanpy/XBufferShield.git
+cd XBufferShield
+python3 xbuffershield.py --target <IP> --mode <attack/defend>
+
+🔰 Capabilities:
+✔️ Stack & Heap Buffer Overflow Exploitation 💥
+✔️ Automated Fuzzing & Memory Corruption Detection 🛑
+✔️ Shellcode Injection, DEP & ASLR Bypass 🧬
+✔️ Advanced Mitigation & Memory Integrity Checks 🔐
+
+🔗 GitHub Repo: XBufferShield
+3️⃣ XStealthSniper - Advanced Covert Operations & Evasion Framework
+
+🎭 Purpose: XStealthSniper is a stealth-driven penetration testing suite designed for advanced security bypassing, deep packet inspection evasion, and forensic-resistant payload execution.
+
+📥 Deployment:
+
+git clone https://github.com/yonathanpy/XStealthSniper.git
+cd XStealthSniper
+python3 xstealthsniper.py --target <IP/Domain> --attack <bypass/sniff/payload>
+
+🕵️ Capabilities:
+✔️ Fully Undetectable (FUD) AV/IDS/IPS Bypass 🚨
+✔️ Network Traffic Sniffing & Credential Interception 📡
+✔️ Stealthy Memory Injection & Anti-Forensic Payload Execution 🩸
+✔️ Wireless Network Breach & Secure Communication Hijacking 🔓
+
+🔗 GitHub Repo: XStealthSniper
+🔮 Ongoing Advanced Projects
+
+I am actively developing elite cybersecurity frameworks for advanced offensive operations, including:
+
+    XPhantom: A hyper-evasive malware generation engine designed to bypass AI-powered security analytics.
+    ShadowNet: A decentralized penetration testing network for covert adversary simulations.
+    CryptX: A next-gen cryptographic security module focusing on quantum-resistant encryption techniques.
+
+🌐 Connect & Collaborate
+
+📡 Follow My Work:
+
+    GitHub: github.com/yonathanpy
+    Mail: witwizard@proton.me
+
+⚠️ Legal Disclaimer
+
+🚨 All tools are strictly for ethical hacking, cybersecurity research, and red teaming. Unauthorized or malicious use is prohibited. Use responsibly. 🚨
