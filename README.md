@@ -1,6 +1,6 @@
 # 🕵️‍♂️ **Elite Cybersecurity Specialist | Red Team Operator | Exploit Developer**
 
-![Cybersecurity Banner](https://raw.githubusercontent.com/yourusername/repository/main/banner.png)
+![Cybersecurity Banner](https://raw.githubusercontent.com/yonathanpy/about-me/refs/heads/main/DALL%C2%B7E%202025-02-20%2014.35.33%20-%20A%20highly%20advanced%2C%20ultra-futuristic%20cybersecurity-themed%20banner%20featuring%20a%20hooded%20hacker%20in%20a%20dark%2C%20neon-lit%20environment.%20The%20scene%20includes%20high-tec.webp)
 
 ---
 
